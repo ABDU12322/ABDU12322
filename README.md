@@ -189,7 +189,6 @@ const MuhammadAbdullah = {
   </picture>
 </div>
 
-> ⚙️ To enable the snake animation, add [this GitHub Actions workflow](https://github.com/Platane/snk) to your profile repository.
 
 ---
 
